@@ -1,5 +1,6 @@
 # Stock-Crash-Analysis
 .
+This project is licensed under the MIT License.<img width="1920" height="1020" alt="Screenshot 2025-11-21 111405" src="https://github.com/user-attachments/assets/ff799271-a48e-4af6-8e2e-4fc872735196" />
 
 📉 Stock Market Crash Analysis with Python
 
@@ -183,5 +184,5 @@ If you have ideas to improve detection algorithms or visualizations, feel free t
 
 📜 License
 
-This project is licensed under the MIT License.<img width="1920" height="1020" alt="Screenshot 2025-11-21 111405" src="https://github.com/user-attachments/assets/ff799271-a48e-4af6-8e2e-4fc872735196" />
+
 
